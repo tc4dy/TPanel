@@ -1,0 +1,19 @@
+# TC4DY | TPanel 🦅
+
+A versatile Python-based multitool designed for educational purposes. This project focuses on demonstrating how networking algorithms, security scripts, and system tools work in a practical environment.
+
+## 🚀 Features
+- **Network Tools:** ARP Spoofer, Sniffer, Local Network Scanner, Wi-Fi Explorer.
+- **Security Analysis:** SQL Vulnerability Scanner, Deauth Attack, Port Scanner.
+- **System & Data:** System Info, Service Grabber, Base64 Encryptor, Storage Analysis.
+- **Automation:** Persistence Script, File Masking, and more.
+
+## 🛠️ How to Use
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/tc4dy/TPanel.git](https://github.com/tc4dy/TPanel.git)
+   cd TPanel/Panel
+   pip install -r ../requirements.txt
+   python main.py
+
+   Developed by @tc4dy. This is a simple and free educational tool for learning algorithms and how they work. The developer is not responsible for any misuse. Use it only for legal and educational purposes.
