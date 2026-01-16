@@ -13,7 +13,8 @@ A versatile Python-based multitool designed for educational purposes. This proje
    ```bash
    git clone [https://github.com/tc4dy/TPanel.git](https://github.com/tc4dy/TPanel.git)
    cd TPanel/Panel
-   pip install -r ../requirements.txt
+   pip install -r requirements.txt
    python main.py
+
 
    Developed by @tc4dy. This is a simple and free educational tool for learning algorithms and how they work. The developer is not responsible for any misuse. Use it only for legal and educational purposes.
